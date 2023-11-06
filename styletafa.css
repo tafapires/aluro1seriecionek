@@ -3,6 +3,8 @@ body {
 }
 h1 { 
    text-align: center;
+   border: solid black;
+   padding: 200pxb ;
 }
 p {
    text-align: center;
@@ -12,4 +14,7 @@ em strong{
 }
 #missao{
    font-size: 20px;"
+}
+#banner{
+   width: 100%;
 }
