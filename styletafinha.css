@@ -1,0 +1,38 @@
+body {
+    background: #CCCCCC;
+}
+.principal {
+    background: #CCCCCC; 
+}
+h1 {
+    text-align: center;
+    border: 10px solid black;
+    padding:20px ;
+}
+p {
+    text-align: center;
+}
+em strong {
+    color: red;
+}
+#missao{
+    style="font-size: 20px;"
+}
+#banner{
+    width: 100%;
+}
+.beneficios {
+    background:#FFFFFF;
+} 
+.imagembeneficios {
+    width: 50%;
+}
+h2{
+    text-align: center;
+}
+.itens {
+    font-style: italic;
+}
+li{
+    border: 3px solid black;
+}
