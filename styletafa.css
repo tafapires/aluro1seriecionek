@@ -1,7 +1,10 @@
 body { 
    background: #8a8080
 }
-h1 { 
+.principal{
+   
+}
+   background: ccccc;
    text-align: center;
    border: solid black;
    padding: 200pxb ;
@@ -17,4 +20,7 @@ em strong{
 }
 #banner{
    width: 100%;
+}
+.itens { 
+ font-style: italic;
 }
